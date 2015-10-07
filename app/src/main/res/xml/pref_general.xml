@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/pref_popularity_value"
+        android:entries="@array/pref_sort_type_labels"
+        android:entryValues="@array/pref_sort_type_values"
+        android:key="@string/pref_sort_type_key"
+        android:title="@string/pref_sort_type" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_descending_value"
+        android:entries="@array/pref_sort_order_labels"
+        android:entryValues="@array/pref_sort_order_values"
+        android:key="@string/pref_sort_order_key"
+        android:title="@string/pref_sort_order" />
+
+</PreferenceScreen>

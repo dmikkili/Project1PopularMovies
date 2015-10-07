@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+
+    // Strings for choosing a sorting type.
+    <string name="pref_sort_type">Sort Type</string>
+    <string name="pref_sort_type_key">sort_type</string>
+    <string name="pref_popularity_label">Popularity</string>
+    <string name="pref_popularity_value">popularity</string>
+    <string name="pref_rating_label">Rating</string>
+    <string name="pref_rating_value">vote_average</string>
+
+    // Strings for choosing a sorting order.
+    <string name="pref_sort_order">Sort Order</string>
+    <string name="pref_sort_order_key">sort_order</string>
+    <string name="pref_descending_label">Descending</string>
+    <string name="pref_descending_value">.desc</string>
+    <string name="pref_ascending_label">Ascending</string>
+    <string name="pref_ascending_value">.asc</string>
+
+    <string name="movie_poster">Movie Poster</string>
+    <string name="image_in_grid_description">An image of a movie in the main grid.</string>
+    <string name="details">Details</string>
+    <string name="image_in_details">An image of a movie in the details view.</string>
+    <string name="details_summary">Plot Synopsis: </string>
+</resources>
