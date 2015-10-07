@@ -1,26 +1,28 @@
 <resources>
-    <string name="app_name">Popular Movies</string>
-    <string name="action_settings">Settings</string>
+    <string name="appName">Popular Movies</string>
+    <string name="actionSettings">Settings</string>
 
     // Strings for choosing a sorting type.
-    <string name="pref_sort_type">Sort Type</string>
-    <string name="pref_sort_type_key">sort_type</string>
-    <string name="pref_popularity_label">Popularity</string>
-    <string name="pref_popularity_value">popularity</string>
-    <string name="pref_rating_label">Rating</string>
-    <string name="pref_rating_value">vote_average</string>
+    <string name="prefSortType">Sort Type</string>
+    <string name="prefSortTypeKey">sort_type</string>
+    <string name="prefPopularityLabel">Popularity</string>
+    <string name="prefPopularityValue">popularity</string>
+    <string name="prefRatingLabel">Rating</string>
+    <string name="prefRatingValue">vote_average</string>
 
     // Strings for choosing a sorting order.
-    <string name="pref_sort_order">Sort Order</string>
-    <string name="pref_sort_order_key">sort_order</string>
-    <string name="pref_descending_label">Descending</string>
-    <string name="pref_descending_value">.desc</string>
-    <string name="pref_ascending_label">Ascending</string>
-    <string name="pref_ascending_value">.asc</string>
+    <string name="prefSortOrder">Sort Order</string>
+    <string name="prefSortOrderKey">sort_order</string>
+    <string name="prefDescendingLabel">Descending</string>
+    <string name="prefDescendingValue">.desc</string>
+    <string name="prefAscendingLabel">Ascending</string>
+    <string name="prefAscendingValue">.asc</string>
 
-    <string name="movie_poster">Movie Poster</string>
-    <string name="image_in_grid_description">An image of a movie in the main grid.</string>
+    <string name="moviePoster">Movie Poster</string>
+    <string name="imageInGridDescription">An image of a movie in the main grid.</string>
     <string name="details">Details</string>
-    <string name="image_in_details">An image of a movie in the details view.</string>
-    <string name="details_summary">Plot Synopsis: </string>
+    <string name="imageInDetails">An image of a movie in the details view.</string>
+    <string name="detailsSummary">Plot Synopsis: %1$s</string>
+    <string name="detailsRating">User Rating: %1$s</string>
+    <string name="detailsReleaseDate">Release Date: %1$s</string>
 </resources>

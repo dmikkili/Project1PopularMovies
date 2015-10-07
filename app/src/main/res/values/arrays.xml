@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_sort_type_labels">
-        <item>@string/pref_popularity_label</item>
-        <item>@string/pref_rating_label</item>
+        <item>@string/prefPopularityLabel</item>
+        <item>@string/prefRatingLabel</item>
     </string-array>
 
     <string-array name="pref_sort_type_values">
-        <item>@string/pref_popularity_value</item>
-        <item>@string/pref_rating_value</item>
+        <item>@string/prefPopularityValue</item>
+        <item>@string/prefRatingValue</item>
     </string-array>
 
     <string-array name="pref_sort_order_labels">
-        <item>@string/pref_descending_label</item>
-        <item>@string/pref_ascending_label</item>
+        <item>@string/prefDescendingLabel</item>
+        <item>@string/prefAscendingLabel</item>
     </string-array>
 
     <string-array name="pref_sort_order_values">
-        <item>@string/pref_descending_value</item>
-        <item>@string/pref_ascending_value</item>
+        <item>@string/prefDescendingValue</item>
+        <item>@string/prefAscendingValue</item>
     </string-array>
 </resources>

@@ -22,7 +22,7 @@
             android:gravity="center"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:contentDescription="@string/image_in_details"/>
+            android:contentDescription="@string/imageInDetails"/>
 
         <TextView
             android:id="@+id/details_overview"

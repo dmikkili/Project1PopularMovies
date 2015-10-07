@@ -2,17 +2,17 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <ListPreference
-        android:defaultValue="@string/pref_popularity_value"
+        android:defaultValue="@string/prefPopularityValue"
         android:entries="@array/pref_sort_type_labels"
         android:entryValues="@array/pref_sort_type_values"
-        android:key="@string/pref_sort_type_key"
-        android:title="@string/pref_sort_type" />
+        android:key="@string/prefSortTypeKey"
+        android:title="@string/prefSortType" />
 
     <ListPreference
-        android:defaultValue="@string/pref_descending_value"
+        android:defaultValue="@string/prefDescendingValue"
         android:entries="@array/pref_sort_order_labels"
         android:entryValues="@array/pref_sort_order_values"
-        android:key="@string/pref_sort_order_key"
-        android:title="@string/pref_sort_order" />
+        android:key="@string/prefSortOrderKey"
+        android:title="@string/prefSortOrder" />
 
 </PreferenceScreen>
